@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatbotApp.Server", "ChatbotApp.Server\ChatbotApp.Server.csproj", "{371AE185-8BB7-469F-A514-EF31F2AE4DAB}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "chatbotapp.client", "chatbotapp.client\chatbotapp.client.esproj", "{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371AE185-8BB7-469F-A514-EF31F2AE4DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371AE185-8BB7-469F-A514-EF31F2AE4DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371AE185-8BB7-469F-A514-EF31F2AE4DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371AE185-8BB7-469F-A514-EF31F2AE4DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00569CB6-22AD-4C65-9068-6A0F3F5FCC45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A7D4D2-514F-40A4-AF8F-5C8308119403}
+	EndGlobalSection
+EndGlobal
